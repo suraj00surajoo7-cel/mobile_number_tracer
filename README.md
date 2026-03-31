@@ -54,7 +54,7 @@ When prompted, enter number in **international format**:
 Example:
 
 ```
-+919876543210
++91123456789
 ```
 
 ---
@@ -64,7 +64,7 @@ Example:
 You’ll get something like:
 
 ```
-📱 Phone Information for +91 98765 43210
+📱 Phone Information for +91 123456789
 📍 Region: India
 📶 Carrier: Airtel
 ⏰ Timezone: Asia/Kolkata
